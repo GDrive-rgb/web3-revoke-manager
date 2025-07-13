@@ -1,10 +1,16 @@
-# EVM Approval Manager
+<div align="center">
+  <h1 align="center">EVM Approval Manager</h1>
+  <p align="center">
+    A lightweight, high-performance Python toolkit for managing token approvals across multiple EVM chains.
+  </p>
+</div>
 
-A lightweight, high-performance Python toolkit for managing token approvals across multiple EVM chains.
-
-![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/GDrive-rgb/web3-revoke-manager?style=for-the-badge&logo=github)
+<p align="center">
+  <a href="https://github.com/GDrive-rgb/web3-revoke-manager/releases/latest"><img src="https://img.shields.io/github/v/release/GDrive-rgb/web3-revoke-manager?style=for-the-badge" alt="Latest Release"></a>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/GDrive-rgb/web3-revoke-manager?style=for-the-badge&logo=github" alt="GitHub Stars">
+</p>
 
 ---
 
@@ -20,9 +26,17 @@ A lightweight, high-performance Python toolkit for managing token approvals acro
 
 ---
 
-## Installation
+## 🚀 Downloads
 
-Ensure you have Python 3.9+ and Git installed.
+For a standalone version that doesn't require Python or any setup, download the latest executable for your operating system from the **[Releases Page](https://github.com/GDrive-rgb/web3-revoke-manager/releases/latest)**.
+
+- **[Download latest version for Windows (revoke-manager.exe)](https://github.com/GDrive-rgb/web3-revoke-manager/releases/latest)**
+
+---
+
+## Installation from Source
+
+This method is for developers who want to run the tool from the source code. Ensure you have Python 3.9+ and Git installed.
 
 1.  **Clone the repository:**
     ```bash
@@ -47,7 +61,7 @@ Ensure you have Python 3.9+ and Git installed.
 
 ## Usage
 
-To launch the graphical user interface, run the main application file from the project root:
+To launch the graphical user interface from source, run the main application file:
 
 ```bash
 python app.py
