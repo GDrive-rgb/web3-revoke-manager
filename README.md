@@ -54,15 +54,11 @@ python app.py
 ```
 
 The application will start, allowing you to input a seed phrase to begin scanning for approvals.
-⚠️ Security Notice
-This application is designed to handle sensitive cryptographic data (seed phrases). All operations that use this data are intended to be performed locally on your machine.
-AUDIT THE CODE: Always review the source code before use to ensure it performs as expected.
-USE IN ISOLATED ENVIRONMENT: For maximum security, run this tool in a sandboxed or isolated environment.
-USE AT YOUR OWN RISK: The authors and maintainers of this project are not liable for any direct or indirect damages or loss of funds resulting from the use of this software.
+
 License
 This project is licensed under the MIT License.
 
-Copyright (c) 2024 GDrive-rgb
+Copyright (c) 2025 GDrive-rgb
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
