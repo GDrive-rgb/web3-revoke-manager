@@ -30,7 +30,7 @@
 
 For a standalone version that doesn't require Python or any setup, download the latest executable for your operating system from the **[Releases Page](https://github.com/GDrive-rgb/web3-revoke-manager/releases/latest)**.
 
-- **[Download latest version for Windows (revoke-manager.exe)](https://github.com/GDrive-rgb/web3-revoke-manager/releases/latest)**
+- **[Download for Windows (revoke-manager.exe)](https://github.com/GDrive-rgb/web3-revoke-manager/releases/download/v1.0.0/revoke-manager.exe)**
 
 ---
 
