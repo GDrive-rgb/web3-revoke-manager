@@ -51,6 +51,7 @@ To launch the graphical user interface, run the main application file from the p
 
 ```bash
 python app.py
+```
 
 The application will start, allowing you to input a seed phrase to begin scanning for approvals.
 ⚠️ Security Notice
